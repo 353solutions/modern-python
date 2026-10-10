@@ -1,0 +1,14 @@
+{
+  "name": "modern-python-guides",
+  "description": "A portable Modern Python skill for coding agents.",
+  "owner": {
+    "name": "Modern Python contributors"
+  },
+  "plugins": [
+    {
+      "name": "modern-python",
+      "source": "./plugins/modern-python",
+      "description": "Guides Python work toward modern idioms supported by the project's minimum Python version."
+    }
+  ]
+}
